@@ -1,10 +1,15 @@
-<!-- ---
-title: About Index
-subtitle: Index is a minimal, fixed sidebar grid portfolio Jekyll theme. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+---
+title: About Yao
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+Hi, I am Yao. I enjoy coding and designing beautiful products. I am studying Computer Science at UC Santa Barbara.
+
+## Work
+
+Current an part-time Android Developer @Procore Technologies, Inc.
+
+<!-- ---
 ![](/images/demo/demo-landscape.jpg)
 
 ## Features
