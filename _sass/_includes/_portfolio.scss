@@ -16,7 +16,14 @@
   position: relative;
   padding: $grid-spacing/2;
   float: left;
-  width: 33.3%;
+
+  @include mq(tabletp) {
+    width: 50%;
+  }
+
+  @include mq(laptop) {
+    width: 33.3%;
+  }
 }
 
 .portfolio-item__link {
